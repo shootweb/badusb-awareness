@@ -6,6 +6,14 @@ This repository contains an awareness demonstration of how a BadUSB device can e
 
 This project is strictly for **educational purposes** and to raise awareness about the potential risks of USB devices. Do not use this code for illegal or unethical activities. The misuse of this script is strictly prohibited and the responsibility lies solely with the user.
 
+## Purpose of This Project
+
+The primary goal of this project is to **educate users about cybersecurity awareness**. By demonstrating how easily a USB device can be exploited to quickly execute harmful or unintended actions. I aim to:
+
+1. Highlight the risks of connecting untrusted or unfamiliar USB devices to your computer.
+2. Encourage individuals and organizations to adopt safer practices regarding USB usage.
+3. Foster understanding of how malicious actors can leverage USB HID functionality to breach systems.
+
 ## How It Works
 
 The script:
@@ -13,6 +21,10 @@ The script:
 2. Enters a URL (`microsoft-edge:https://i.ibb.co/GcnG2sd/hk.png`) to open in Microsoft Edge.
 3. Presses "Enter" to execute the command.
 4. Maximizes the browser window for emphasis.
+
+This is what the screen will show:
+![hk](https://github.com/user-attachments/assets/33d769ca-e99c-4b98-908a-8e7ae8b18856)
+
 
 ## Prerequisites
 
@@ -88,7 +100,6 @@ To protect against potential BadUSB attacks:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
 ## Acknowledgments
 
