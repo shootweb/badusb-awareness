@@ -23,7 +23,8 @@ The script:
 4. Maximizes the browser window for emphasis.
 
 This is what the screen will show:
-![hk](https://github.com/user-attachments/assets/33d769ca-e99c-4b98-908a-8e7ae8b18856)
+![image](https://github.com/user-attachments/assets/82ef1958-a614-4184-9713-654dce91a1e0)
+
 
 
 ## Prerequisites
