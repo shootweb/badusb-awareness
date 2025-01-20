@@ -19,12 +19,12 @@ void setup() {
 
   // Press Enter to open the link, then maximize browser screen
   Keyboard.press(KEY_KP_ENTER);
-  delay(350);
+  delay(250);
   Keyboard.releaseAll();
-  delay(350);
+  delay(550);
   Keyboard.press(KEY_F11);
 
-  delay(350);
+  delay(250);
   Keyboard.releaseAll();
   // Halt further execution to prevent looping
   while (true) {
