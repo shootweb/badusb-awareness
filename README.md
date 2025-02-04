@@ -5,6 +5,8 @@ This repository contains an awareness demonstration of how a BadUSB device can e
 ## ⚠️ Disclaimer
 
 This project is strictly for **educational purposes** and to raise awareness about the potential risks of USB devices. Do not use this code for illegal or unethical activities. The misuse of this script is strictly prohibited and the responsibility lies solely with the user.
+<br>
+This works for English (U.S) keyboards, if using another language you'll have to check the key mapping.
 
 ## Purpose of This Project
 
@@ -33,7 +35,7 @@ This is what the screen will show:
   - Digispark Attiny85
   - Arduino Leonardo
   - Arduino Micro
-- DigiKeyboard library for Arduino (included by default for Digispark devices).
+- Keyboard.h library for Arduino (the default keyboard library).
 
 ## Code Overview
 
