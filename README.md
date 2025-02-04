@@ -6,7 +6,7 @@ This repository contains an awareness demonstration of how a BadUSB device can e
 
 This project is strictly for **educational purposes** and to raise awareness about the potential risks of USB devices. Do not use this code for illegal or unethical activities. The misuse of this script is strictly prohibited and the responsibility lies solely with the user.
 <br>
-This works for English (U.S) keyboards, if using another language you'll have to check the key mapping.
+**This works for English (U.S) keyboards, if using another language you'll have to check the key mapping or that particular language.**
 
 ## Purpose of This Project
 
