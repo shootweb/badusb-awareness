@@ -87,9 +87,8 @@ void finish() {
 ## Setup Instructions
 
 1. Install the Arduino IDE from [Arduino's official website](https://www.arduino.cc/).
-2. Add support for your board (e.g., Digispark).
-3. Open the code in the Arduino IDE and upload it to your device.
-4. Plug the device into a computer to see the demonstration in action.
+2. Open the code in the Arduino IDE and upload it to your device (you might need to select COM port and device).
+3. Plug the device into a Windows computer to see the demonstration in action.
 
 ## Mitigation Tips
 
@@ -103,9 +102,3 @@ To protect against potential BadUSB attacks:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
-## Acknowledgments
-
-- Inspired by cybersecurity awareness campaigns.
-- Uses the DigiKeyboard library to demonstrate USB HID exploits.
