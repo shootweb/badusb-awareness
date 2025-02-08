@@ -22,7 +22,7 @@ The script:
 1. Simulates keyboard input to open the "Run" dialog (Windows key + R).
 2. Enters a URL (`microsoft-edge:https://i.ibb.co/GcnG2sd/hk.png`) to open in Microsoft Edge.
 3. Presses "Enter" to execute the command.
-4. Maximizes the browser window for emphasis.
+4. Maximizes the browser window (presses F11) for emphasis.
 
 This is what the screen will show:
 ![image](https://github.com/user-attachments/assets/82ef1958-a614-4184-9713-654dce91a1e0)
@@ -31,10 +31,11 @@ This is what the screen will show:
 
 ## Prerequisites
 
-- An Arduino-compatible microcontroller that supports USB HID, such as:
+- An Arduino-compatible microcontroller that supports USB HID. It is supported by the avr, samd, sam and renesas_uno architectures, such as:
   - Digispark Attiny85
-  - Arduino Leonardo
+  - Arduino Leonardo (this is the one I used)
   - Arduino Micro
+  - Check <a href="https://docs.arduino.cc/libraries/keyboard/">Arduino's compatibility list</a>
 - Keyboard.h library for Arduino (the default keyboard library).
 
 ## Code Overview
